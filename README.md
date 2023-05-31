@@ -1,4 +1,4 @@
-# Roteiro para o desenvolvimento da atividade prática do DIO Live Coding do dia 17/11/2021
+# Atividade prática do DIO AWS Bootcamp
 
 ## Serviços AWS utilizados
 
